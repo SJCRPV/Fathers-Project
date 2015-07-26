@@ -4,14 +4,14 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^0::
-MsgBox Macro started
+;MsgBox Macro started
 
 SetWorkingDir %A_ScriptDir%
 ;MsgBox %A_WorkingDir%
 
 searchForEnviar()
 {
-	ImageSearch, Output2X, Output2Y, 0, 0, A_ScreenWidth, A_ScreenHeight, *20 %A_WorkingDir%\Enviar.png
+	ImageSearch, Output2X, Output2Y, 0, 0, A_ScreenWidth, A_ScreenHeight, *100 %A_WorkingDir%\Enviar.png
 	if ErrorLevel = 2
 	{    
 		MsgBox Could not conduct the search.
@@ -33,7 +33,7 @@ searchForEnviar()
 searchForMensagem()
 {
 	;MsgBox Just before the search for Mensagem
-	ImageSearch, OutputX, OutputY, 0, 0, A_ScreenWidth, A_ScreenHeight, *20 %A_WorkingDir%\Mensagem.png
+	ImageSearch, OutputX, OutputY, 0, 0, A_ScreenWidth, A_ScreenHeight, *10 %A_WorkingDir%\Mensagem.png
 	if ErrorLevel = 2
 	{    
 		MsgBox Could not conduct the search.
@@ -49,7 +49,7 @@ searchForMensagem()
 		
 	MouseMove, OutputX + 20, OutputY + 12
 	Click
-	Sleep, 4000
+	Sleep, 3000
 }
 
 

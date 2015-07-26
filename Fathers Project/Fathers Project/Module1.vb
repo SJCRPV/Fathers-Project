@@ -9,6 +9,9 @@ Module Module1
     Public workBook As Excel.Workbook
     Public range As Excel.Range
     Public length As Long
+    Public defaultDirectoryText As String
+    Public defaultPageToOpenText As String
+    Public defaultTextToSendText As String
 
     Dim scriptFullPath As String
     Dim scriptDirectory As String
