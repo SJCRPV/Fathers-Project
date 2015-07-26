@@ -1,4 +1,0 @@
-http://code.logos.com/blog/2008/01/using_processstart_to_link_to.html
-https://support.microsoft.com/en-us/kb/302094
-http://bytes.com/topic/net/answers/116660-read-hyperlink-excel-sheet-vb-net
-http://www.visual-basic-tutorials.com/WriteToExcel2007.php

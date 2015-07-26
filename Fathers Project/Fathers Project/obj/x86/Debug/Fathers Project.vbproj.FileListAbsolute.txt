@@ -10,3 +10,13 @@ C:\Users\Corredor\AppData\Local\Temporary Projects\Fathers Project\obj\x86\Debug
 C:\Users\Corredor\documents\visual studio 2010\Projects\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.exe
 C:\Users\Corredor\documents\visual studio 2010\Projects\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.xml
 C:\Users\Corredor\documents\visual studio 2010\Projects\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.pdb
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.vbproj.ResolveComReference.cache
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.exe
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.xml
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.pdb
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\bin\Debug\Fathers Project.exe
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\bin\Debug\Fathers Project.pdb
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\bin\Debug\Fathers Project.xml
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers_Project.Form1.resources
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers_Project.Resources.resources
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Fathers Project\Fathers Project\obj\x86\Debug\Fathers Project.vbproj.GenerateResource.Cache

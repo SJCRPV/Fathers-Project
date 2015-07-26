@@ -35,7 +35,6 @@ Partial Class Form1
         Me.directoryBox.Name = "directoryBox"
         Me.directoryBox.Size = New System.Drawing.Size(221, 20)
         Me.directoryBox.TabIndex = 0
-        Me.directoryBox.Text = "Largue a diretoria aqui"
         '
         'startButton
         '
@@ -53,7 +52,6 @@ Partial Class Form1
         Me.pageToOpenBar.Name = "pageToOpenBar"
         Me.pageToOpenBar.Size = New System.Drawing.Size(128, 20)
         Me.pageToOpenBar.TabIndex = 3
-        Me.pageToOpenBar.Text = "Nome da página a abrir"
         '
         'textToSend
         '
@@ -63,7 +61,6 @@ Partial Class Form1
         Me.textToSend.Name = "textToSend"
         Me.textToSend.Size = New System.Drawing.Size(217, 136)
         Me.textToSend.TabIndex = 4
-        Me.textToSend.Text = "Escreva aqui o texto a enviar"
         '
         'Form1
         '

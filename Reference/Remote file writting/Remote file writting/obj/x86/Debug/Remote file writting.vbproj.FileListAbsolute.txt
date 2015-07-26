@@ -25,3 +25,6 @@ C:\Users\Corredor\Desktop\Reference\Remote file writting\Remote file writting\bi
 C:\Users\Corredor\Desktop\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote_file_writting.Form1.resources
 C:\Users\Corredor\Desktop\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote_file_writting.Resources.resources
 C:\Users\Corredor\Desktop\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote file writting.vbproj.GenerateResource.Cache
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote file writting.exe
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote file writting.xml
+C:\Users\Corredor\Documents\GitHub\Fathers-Project\Reference\Remote file writting\Remote file writting\obj\x86\Debug\Remote file writting.pdb
